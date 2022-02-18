@@ -1,1 +1,1 @@
-# Alphabet-Patterns
+Alphabet patterns coded python
